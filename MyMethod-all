@@ -1,4 +1,3 @@
-How about this method:
 1. Sparse spectral estimates of power envelopes:
 Envelope extraction (based on Hilbert transform).
 Sparse spectral estimates of envelope signals.
@@ -16,8 +15,6 @@ Find the spatiotemporal regularizer the via the LASSO regression.
 5. Dominant Frequency Tracking
 
 6. Spatial Correlation
-
-Sure! Here's a structured Jupyter notebook that integrates all the steps mentioned:
 
 ```python
 # Import necessary libraries
